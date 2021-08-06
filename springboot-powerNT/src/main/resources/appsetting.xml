@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appSettings>
+	<!--登录是否显示验证码开关 0：不使用验证码验证 1：使用验证码验证 -->
+	<isCode>0</isCode>
+	<!--登录标题(loginbigtitle大字体标题，loginsmalltitle小字体标题)-->
+	<loginbigtitle>JAVA WebAapplication Framework</loginbigtitle>
+	<loginsmalltitle>.for PowerNT5.0</loginsmalltitle>
+	<pagesize>20</pagesize>
+	<!--版权的归属-->
+	<copyright></copyright>
+	<FileSizeLimit>300</FileSizeLimit>
+</appSettings>
