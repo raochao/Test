@@ -10,15 +10,6 @@ public class TestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
-//        try {
-//            pnbclient.alias.SQLCommandService srv = new pnbclient.alias.SQLCommandService();
-//            srv.setLangId("sc");
-//            List list = srv.getList("find_all_user_sql");
-//            System.out.println(list.size());
-//        }catch(Exception e){
-//            e.printStackTrace();
-//        }
-
     }
 
 }
